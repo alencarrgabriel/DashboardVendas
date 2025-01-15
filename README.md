@@ -2,6 +2,8 @@
 
 Este projeto é uma análise de vendas de um supermercado utilizando **Python** e as bibliotecas **Pandas**, **Plotly Express** e **Streamlit**. O objetivo do projeto é criar um dashboard interativo que permita visualizar os principais indicadores de desempenho das vendas ao longo do tempo.
 
+Estou estudando **Python** e as bibliotecas **Pandas**, **Plotly Express** e **Streamlit** para fazer análise de dados e testando o funcionamento dessas bibliotecas através deste projeto.
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal do projeto.
@@ -117,14 +119,6 @@ O arquivo `supermarket_sales.csv` contém as seguintes colunas:
 | Date          | Data da Venda        |
 | Payment       | Método de Pagamento  |
 | Rating        | Avaliação do Cliente |
-
----
-
-## 🔥 Funcionalidades do Dashboard
-
-- Filtro por mês para visualizar os dados de vendas de um período específico.
-- Gráficos interativos que permitem uma melhor visualização dos dados.
-- Análises de faturamento por dia, tipo de produto, cidade, forma de pagamento e avaliação das filiais.
 
 ---
 
