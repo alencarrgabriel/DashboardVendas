@@ -128,32 +128,6 @@ O arquivo `supermarket_sales.csv` contém as seguintes colunas:
 
 ---
 
-## 📷 Visualização do Dashboard
-
-### Faturamento por Dia
-![Faturamento por Dia](newplot-10.png)
-
-### Faturamento por Tipo de Produto
-![Faturamento por Tipo de Produto](newplot-11.png)
-
-### Faturamento por Filial
-![Faturamento por Filial](newplot-12.png)
-
-### Faturamento por Tipo de Pagamento
-![Faturamento por Tipo de Pagamento](newplot-13.png)
-
-### Avaliação das Filiais
-![Avaliação das Filiais](newplot-14.png)
-
----
-
-## 🛠️ Melhorias Futuras
-
-- Adicionar mais filtros, como tipo de cliente e linha de produto.
-- Incluir gráficos de tendências mensais.
-- Exportar os dados filtrados para um arquivo CSV diretamente do dashboard.
-
----
 
 ## 📚 Referências
 
